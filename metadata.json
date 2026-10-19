@@ -1,0 +1,6 @@
+{
+  "name": "Emotionopoly",
+  "description": "Permainan papan monopoli emosi interaktif untuk murid sekolah rendah (umur 7-12) berinspirasikan watak Inside Out dengan dadu automatik, Kad Tenang, dan Kad Cabaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
